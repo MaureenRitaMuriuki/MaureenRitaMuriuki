@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # Rita's Cybersecurity Portfolio
-<a href="[https://www.linkedin.com/in/your-profile-link](https://www.linkedin.com/in/maureen-rita-781871254)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/maureen-rita-781871254"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## About Me
 I’m a recent graduate with a strong foundation in Information Technology and a dedication to solving complex problems. I specialize in detection, response, and automation to ensure systems remain secure.
