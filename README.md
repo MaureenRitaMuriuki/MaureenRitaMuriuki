@@ -76,14 +76,14 @@ I am focused on leveraging my academic background, practical experience, and ski
 1. **[DVWA Project: Vulnerability Exploitation](https://github.com/your-github/dvwa-project)**  
    Exploited vulnerabilities in the Damn Vulnerable Web Application (DVWA) environment to deepen my understanding of common web application security flaws like SQL injection and cross-site scripting (XSS).
 
-2. **[Wireshark Lab: Network Packet Investigation](https://github.com/your-github/wireshark-lab)**  
-   Analyzed network traffic using Wireshark to detect suspicious activity, such as man-in-the-middle attacks, and explored packet structures for a hands-on understanding of network security.
+2. **[Nmap Vulnerability Scanner](https://github.com/MaureenRitaMuriuki/nmap-vuln-scanner)**  
+   A vulnerability scanning script built on Kali Linux using Nmap to identify open ports and known vulnerabilities on a target system. This project automates network scanning tasks, combining service detection and vulnerability scripts to help identify security risks, ideal for penetration testing practice and reconnaissance.
 
-3. **[OSINT Project: Web App Vulnerability Report](https://github.com/your-github/osint-project)**  
-   Conducted Open-Source Intelligence (OSINT) gathering and reconnaissance on web applications to uncover vulnerabilities. This project focused on mapping out attack surfaces through systematic research.
+3. **[DNS spoofing with Wireshark](https://github.com/MaureenRitaMuriuki/dns-spoofing-with-wireshark)**  
+   Demonstrating DNS spoofing using Bettercap and monitoring with Wireshark.
 
-4. **[Malware Analysis: Dynamic & Static Analysis](https://github.com/your-github/malware-analysis)**  
-   Performed both static and dynamic analysis on malware samples to understand their behavior and potential impact on systems. Documented findings and developed mitigation strategies.
+4. **[Network Mapping with MTR (my tracer route](https://github.com/MaureenRitaMuriuki/network-path-mapping-mtr)**  
+   Network mapping project using MTR to trace and analyze the path, latency, and packet loss to a destination server (1.1.1.1). Includes a detailed report and future graph visualizations.
 
 
 
