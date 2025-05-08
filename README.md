@@ -1,103 +1,93 @@
-## Hi there 👋
-
-# Rita's Cybersecurity Portfolio
-<a href="https://www.linkedin.com/in/maureen-rita-781871254"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-## About Me
-I’m a recent graduate with a strong foundation in Information Technology and a dedication to solving complex problems. I specialize in detection, response, and automation to ensure systems remain secure.
-
-## Objective
-I am focused on leveraging my academic background, practical experience, and skills to actively contribute to a dynamic SOC environment and Pentesting scenes. My ambition is to grow within the field, ultimately pursuing a role like CISO while constantly evolving and refining my capabilities.
+<h1 align="center">Hi, I'm Maureen Rita 🍓</h1>
+<p align="center">
+  <em>A graceful cyber girl with a heart for code, security & elegance.</em><br/>
+  <strong>Cybersecurity | Penetration Testing | Red Team | Future CISO</strong>
+</p>
 
 ---
 
-## Skills & Projects
+### 📖 About Me
 
-| Skill                                           | Project                                       |
-|-------------------------------------------------|-----------------------------------------------|
-| **Penetration Testing**                         | [DVWA Project: Vulnerability Exploitation]([https://github.com/your-github/dvwa-project](https://github.com/MaureenRitaMuriuki/DVWA)) |
-| **Network Traffic Analysis**                    | [Wireshark Lab: Network Packet Investigation]([https://github.com/your-github/wireshark-lab](https://github.com/MaureenRitaMuriuki/network-path-mapping-mtr)) |
-| **OSINT & Reconnaissance**                      | [OSINT Project: Web App Vulnerability Report](https://github.com/your-github/osint-project) |
-| **Malware Analysis**                            | [Malware Analysis: Dynamic & Static Analysis](https://github.com/your-github/malware-analysis) |
-
+🌸 I’m a cybersecurity professional passionate about red teaming, network defense, and elegant code.  
+👩🏽‍💻 I love working on real-world simulations — capturing flags, analyzing traffic, and breaking things… beautifully.  
+🛡 I combine creativity with technical skill to create secure, intuitive, and aesthetic digital experiences.  
+🙏🏽 Faith-centered, luxury-brained, and forever learning.
 
 ---
 
-## Tools I Use
+### 🛠 Tech & Tools I Love
 
-### **Network Analysis**
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### **Endpoint Detection**
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### **SIEM**
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Python-FFD4E5?style=for-the-badge&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Wireshark-6699CC?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Burp%20Suite-F44747?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-VSCode-FCDDEC?style=for-the-badge&logo=visualstudiocode&logoColor=black"/>
+</p>
 
 ---
 
-## Certifications
+### 💻 Currently Working On
 
-<div>
-    <a href="https://www.linkedin.com/learning/certificates/8490399bec2f384d63b35972b7449b5e941c362159bcd83bd5a3e1d321841a74?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BS2uV8%2BylRaCzY00FH0XLjA%3D%3D">
-        <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    </a>
-    <a href="https://www.credly.com/badges/b4467bcc-f8f8-4a0a-9398-084e3cab8568/linked_in_profile">
-        <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    </a>
-    <a href="https://www.credly.com/badges/b12b00bc-bcb4-4698-8aee-d23de69839f5/linked_in_profile">
-        <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    </a>
-    <a href="https://www.linkedin.com/learning/certificates/c43bd39673e780e02ca962e18ef7a2a45413d1f26e667bee4140515816747782?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BS2uV8%2BylRaCzY00FH0XLjA%3D%3D">
-        <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-    </a>
-    <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/2sNmYuurxgpFYawco/x52Jy9s26xNbZkTQ7_2sNmYuurxgpFYawco_G9uRskurSAQ2oX4Ru_1745613777920_completion_certificate.pdf">
-        <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-    </a>
-</div>
-
-
+- 🐍 Python-based simulated attack project [View Project](#)
+- 🔍 OSINT & Recon Tool with terminal-based UI
+- 🌐 Building my GitHub cybersecurity portfolio & Notion site
 
 ---
 
-## My Projects
+### 📁 Featured Projects
 
-1. **[DVWA Project: Vulnerability Exploitation](https://github.com/your-github/dvwa-project)**  
-   Exploited vulnerabilities in the Damn Vulnerable Web Application (DVWA) environment to deepen my understanding of common web application security flaws like SQL injection and cross-site scripting (XSS).
+| 💻 Project | ✨ Description | 🛠️ Skills |
+|-----------|----------------|------------|
+| 🔐 [DVWA-Pentest](#) | Penetration test & exploit logs from DVWA | Burp Suite, OWASP, XSS |
+| 🕵🏽‍♀️ [OSINT-Kenya](#) | Targeted info-gathering tool for local intelligence | Python, Recon, APIs |
+| 📡 [Wireshark-Capture](#) | Real-world traffic analysis using Wireshark | Network layers, TCP/IP |
+| 🌐 **Subdomain Hunter** | Tool to enumerate and find hidden subdomains | Python, DNS, Sublist3r |
+| 🔍 **Port Scanner (Python)** | Custom terminal port scanner for quick audits | Python, sockets, Nmap logic |
+| 🧸 **HoneyBunnyPot** | Honeypot setup to trap + analyze intrusions | Attack simulation, Tarpits, Defense logs |
+| 🧬 **DNS Spoofing** | DNS spoofing project using Wireshark for visibility | MITM, ARP spoofing, Packet capture |
 
-2. **[Nmap Vulnerability Scanner](https://github.com/MaureenRitaMuriuki/nmap-vuln-scanner)**  
-   A vulnerability scanning script built on Kali Linux using Nmap to identify open ports and known vulnerabilities on a target system. This project automates network scanning tasks, combining service detection and vulnerability scripts to help identify security risks, ideal for penetration testing practice and reconnaissance.
+---
 
-3. **[DNS spoofing with Wireshark](https://github.com/MaureenRitaMuriuki/dns-spoofing-with-wireshark)**  
-   Demonstrating DNS spoofing using Bettercap and monitoring with Wireshark.
+### 📊 GitHub Activity & Stats
 
-4. **[Network Mapping with MTR (my tracer route](https://github.com/MaureenRitaMuriuki/network-path-mapping-mtr)**  
-   Network mapping project using MTR to trace and analyze the path, latency, and packet loss to a destination server (1.1.1.1). Includes a detailed report and future graph visualizations.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=rose_pine&hide_title=true" width="47%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=rose_pine" width="47%">
+</p>
+
+---
+
+### 💡 Fun Metrics
+
+| Mood | 🌷 Today I Feel |
+|------|----------------|
+| 💕 | Elegant, Curious, Faithful |
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=FFB6C1" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/yourusername?label=Follow%20me&style=social"/>
+</p>
+
+---
+
+### 🌟 Vision Board
+
+> *"She is clothed with strength and dignity; she can laugh at the days to come."*  
+> – Proverbs 31:25
+
+💼 Dream Role: CISO  
+📍 Based in Kenya, building quietly and beautifully.  
+📓 I track my life with Notion, my growth with GitHub, and my peace with God.
+
+---
+
+### 📬 Connect With Me
+
+[![Email](https://img.shields.io/badge/-Email-FFD4E5?style=flat&logo=gmail&logoColor=black)](mailto:maureenrita47@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-FFC0CB?style=flat&logo=github&logoColor=black)](https://github.com/MaureenRitaMuriuki)
+[![Notion](https://img.shields.io/badge/-Notion-EFD5F7?style=flat&logo=notion&logoColor=black)](https://www.notion.so/CISO-MAUREEN-RITA-1df56ab4345f8074b33ed366bc7c7a45?pvs=4)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-D6ACE6?style=flat&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/maureen-rita-781871254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
-
-<!--
-**MaureenRitaMuriuki/MaureenRitaMuriuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">🩰 With grace and grit — Maureen Rita 🍓</p>
