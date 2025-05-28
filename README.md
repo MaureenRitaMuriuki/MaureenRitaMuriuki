@@ -54,7 +54,7 @@
   <a href="https://academy.hackthebox.com/dashboard" target="_blank">
     <img src="https://img.shields.io/badge/Hack%20The%20Box-111922?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
   </a>
-  <a href="https://tryhackme.com/dashboard" target="_blank">
+  <a href="https://tryhackme.com/p/maureenrita47445" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
   </a>
 </p>
