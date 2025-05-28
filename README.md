@@ -1,83 +1,80 @@
-<h1 align="center">Maureen Rita | Offensive Security & Threat Simulation</h1>
+<h1 align="center">Maureen Rita</h1>
 <p align="center">
-  <strong>Penetration Tester • Red Team Learner • Future CISO</strong><br/>
-  <em>Clean code. Real attacks. Sharp execution.</em>
+  <strong>Red Team | Offensive Security | Threat Simulation</strong><br/>
+  Cybersecurity Strategist • Adversary Emulation • CISO-in-Training
 </p>
 
 ---
 
-### 🛡️ About Me
+### 🧠 Summary
 
-- Cybersecurity student with a sharp focus on **offensive security** and real-world adversarial testing.
-- Passionate about vulnerability research, packet analysis, and elegant scripting.
-- Currently building a portfolio of technical tools, attack simulations, and writeups.
-
----
-
-### 🧠 Focus Areas
-
-- Red Team Simulation / Penetration Testing
-- Reconnaissance & OSINT
-- Network Traffic Analysis (Wireshark, MTR)
-- Python & Bash Tooling
-- Reporting, Documentation & Root Cause Analysis
+Cybersecurity professional specializing in **Offensive Security**, **Web Exploitation**, and **Threat Simulation**.  
+Trained on platforms like Hack The Box and TryHackMe, where I apply adversarial thinking to solve real-world scenarios.  
+Skilled in scripting, reconnaissance, traffic analysis, and web application security. My work reflects a rare blend of deep technical skill, clarity in documentation, and strategy-driven execution.
 
 ---
 
-### 📁 Featured Projects
+### 💼 Core Proficiencies
 
-| Project | Description | Skills |
-|--------|-------------|--------|
-| [🔐 DVWA-Pentest](https://github.com/MaureenRitaMuriuki/DVWA) | Full penetration test report on Damn Vulnerable Web App | OWASP, Burp Suite, XSS |
-| [🌐 Subdomain Hunter](https://github.com/MaureenRitaMuriuki/subdomain_hunter) | Python tool to enumerate hidden subdomains | Python, Recon, DNS |
-| [🔍 Port Scanner](https://github.com/MaureenRitaMuriuki/port-scanner) | Custom terminal port scanner with Nmap logic | Python, Sockets |
-| [🧸 HoneyBunnyPot](https://github.com/MaureenRitaMuriuki/HoneybunnyPot) | Honeypot setup to simulate intrusions | Deception, Logs, Tarpit |
-| [📡 DNS Spoofing](https://github.com/MaureenRitaMuriuki/dns-spoofing-with-wireshark) | MITM + ARP spoofing visibility with Wireshark | Network Exploitation |
-| [🌐 MTR Network Map](https://github.com/MaureenRitaMuriuki/network-path-mapping-mtr) | Network path visualization tool using MTR | TCP/IP, Traceroute |
+- 🔐 Red Teaming & Penetration Testing  
+- 🔍 OSINT & Recon Tooling (Python & APIs)  
+- 🌐 Web App Vulnerabilities (OWASP Top 10)  
+- 📡 Network Traffic Analysis (Wireshark, MTR)  
+- 🧪 Exploit Writing & Reporting  
+- 🧠 Python, Bash Scripting for Automation
 
 ---
 
-### 📜 Certifications
+### 🚀 Featured Projects
 
-| Name | Issuer | Credential |
-|------|--------|------------|
-| Linux Fundamentals | Hack The Box | [View](https://academy.hackthebox.com/dashboard) |
-| Introduction to Web Applications | Hack The Box | [View](https://academy.hackthebox.com/dashboard) |
-| Cybersecurity Essentials | Cisco Networking Academy | [View](https://www.netacad.com/portal/...) |
-| Google Cybersecurity | Coursera (Google) | [View](https://coursera.org/verify/...) |
+| Project | Summary | Tools/Focus |
+|--------|---------|--------------|
+| [🔐 DVWA Pentest](https://github.com/MaureenRitaMuriuki/DVWA) | Web app vulnerability testing with exploit documentation | Burp Suite, OWASP, XSS, CSRF |
+| [🌐 Subdomain Hunter](https://github.com/MaureenRitaMuriuki/subdomain_hunter) | Custom tool for enumerating hidden domains | Python, DNS, Sublist3r |
+| [📡 DNS Spoofing](https://github.com/MaureenRitaMuriuki/dns-spoofing-with-wireshark) | DNS/ARP spoofing demo with MITM analysis | Wireshark, Packet Capture |
+| [🧸 HoneyBunnyPot](https://github.com/MaureenRitaMuriuki/HoneybunnyPot) | Honeypot for intrusion trapping and log analysis | Network Defense, Python |
+| [🔍 Port Scanner](https://github.com/MaureenRitaMuriuki/port-scanner) | Lightweight port scanner mimicking Nmap logic | TCP Scan, Socket Programming |
+| [📍 Network Path Mapping](https://github.com/MaureenRitaMuriuki/network-path-mapping-mtr) | Internet routing visualization using MTR | Linux, Packet Loss Analysis |
 
 ---
 
-### 💻 Learning Platforms
+### 📜 Verified Certifications
 
-<p align="left">
-  <a href="https://academy.hackthebox.com/dashboard" target="_blank">
-    <img src="https://img.shields.io/badge/Hack%20The%20Box-111922?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
+| Credential | Issuer |
+|------------|--------|
+| Cybersecurity Certificate | Google (Coursera) |
+| Cybersecurity Essentials | Cisco Networking Academy |
+| Linux Fundamentals | Hack The Box Academy |
+| Web Application Security | Hack The Box Academy |
+
+---
+
+### 🧠 Cyber Ranges & Learning Platforms
+
+<p>
+  <a href="https://academy.hackthebox.com/profile" target="_blank">
+    <img src="https://img.shields.io/badge/Hack_The_Box-Achieving_Hands--On_Mastery-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white"/>
   </a>
   <a href="https://tryhackme.com/p/maureenrita47445" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TryHackMe-Certified_Path_to_Real_World-FF0033?style=for-the-badge&logo=tryhackme&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 📌 2025 Goals
-
-- Complete **Hack The Box Red Team Path**
-- Contribute to open-source offensive security tooling
-- Land a Red Team Internship or Junior Penetration Testing Role
-- Publish structured technical blogs and attack analysis
-
----
-
-### 📬 Contact
-
-[![Email](https://img.shields.io/badge/-Email-FFD4E5?style=flat&logo=gmail&logoColor=black)](mailto:maureenrita47@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/MaureenRitaMuriuki)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maureen-rita-781871254)
-
----
+### 📈 GitHub Activity
 
 <p align="center">
-🧠 Building like an attacker, thinking like a CISO.
+  <img src="https://github-readme-stats.vercel.app/api?username=MaureenRitaMuriuki&show_icons=true&theme=default&hide_title=true" width="47%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaureenRitaMuriuki&theme=default" width="47%">
 </p>
+
+---
+
+### 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maureen-rita-781871254)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/MaureenRitaMuriuki)  
+[![Email](https://img.shields.io/badge/-Email-EA4C89?style=flat&logo=gmail&logoColor=white)](mailto:maureenrita47@gmail.com)
+
+<p align="center"><em>Delivering elegant, adversarial security — at scale.</em></p>
