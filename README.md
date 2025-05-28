@@ -1,7 +1,7 @@
 <h1 align="center">Maureen Rita</h1>
 <p align="center">
-  <strong>Red Team | Offensive Security | Threat Simulation</strong><br/>
-  Cybersecurity Strategist • Adversary Emulation • CISO-in-Training
+  <strong>Offensive Security Specialist | Red Team Operator | Threat Simulation Expert</strong><br/>
+  Cybersecurity Strategist • Adversary Emulation • Future CISO
 </p>
 
 ---
@@ -9,8 +9,8 @@
 ### 🧠 Summary
 
 Cybersecurity professional specializing in **Offensive Security**, **Web Exploitation**, and **Threat Simulation**.  
-Trained on platforms like Hack The Box and TryHackMe, where I apply adversarial thinking to solve real-world scenarios.  
-Skilled in scripting, reconnaissance, traffic analysis, and web application security. My work reflects a rare blend of deep technical skill, clarity in documentation, and strategy-driven execution.
+Trained on platforms like Hack The Box and TryHackMe, applying adversarial thinking to solve real-world scenarios.  
+Skilled in scripting, reconnaissance, traffic analysis, and web application security. My work reflects a blend of technical skill, clear documentation, and strategic execution.
 
 ---
 
@@ -40,12 +40,12 @@ Skilled in scripting, reconnaissance, traffic analysis, and web application secu
 
 ### 📜 Verified Certifications
 
-| Credential | Issuer |
-|------------|--------|
-| Cybersecurity Certificate | Google (Coursera) |
-| Cybersecurity Essentials | Cisco Networking Academy |
-| Linux Fundamentals | Hack The Box Academy |
-| Web Application Security | Hack The Box Academy |
+- [Cybersecurity Certificate – Google (Coursera)](https://www.coursera.org/account/accomplishments/certificate/ABC123)  
+- [Cybersecurity Essentials – Cisco Networking Academy](https://www.netacad.com/portal/learning)  
+- [Linux Fundamentals – Hack The Box Academy](https://academy.hackthebox.com/achievement/XYZ789)  
+- [Web Application Security – Hack The Box Academy](https://academy.hackthebox.com/achievement/DEF456)  
+
+*Replace the above placeholder URLs with your actual certification links.*
 
 ---
 
@@ -58,15 +58,6 @@ Skilled in scripting, reconnaissance, traffic analysis, and web application secu
   <a href="https://tryhackme.com/p/maureenrita47445" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-Certified_Path_to_Real_World-FF0033?style=for-the-badge&logo=tryhackme&logoColor=white"/>
   </a>
-</p>
-
----
-
-### 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaureenRitaMuriuki&show_icons=true&theme=default&hide_title=true" width="47%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaureenRitaMuriuki&theme=default" width="47%">
 </p>
 
 ---
