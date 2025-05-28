@@ -1,27 +1,27 @@
 <h1 align="center">Maureen Rita</h1>
 <p align="center">
   <strong>Offensive Security Specialist | Red Team Operator | Threat Simulation Expert</strong><br/>
-  Cybersecurity Strategist • Adversary Emulation • Future CISO
+  Cybersecurity Professional • Adversary Emulation • Future CISO
 </p>
 
 ---
 
-### 🧠 Summary
+### 🧠 Professional Summary
 
-Cybersecurity professional specializing in **Offensive Security**, **Web Exploitation**, and **Threat Simulation**.  
-Trained on platforms like Hack The Box and TryHackMe, applying adversarial thinking to solve real-world scenarios.  
-Skilled in scripting, reconnaissance, traffic analysis, and web application security. My work reflects a blend of technical skill, clear documentation, and strategic execution.
+Cybersecurity expert specializing in **Offensive Security**, **Web Exploitation**, and **Threat Simulation**.  
+Hands-on experience on platforms like Hack The Box and TryHackMe, applying adversarial techniques to real-world scenarios.  
+Proficient in scripting, reconnaissance, traffic analysis, and web application security. Committed to technical excellence and clear documentation.
 
 ---
 
-### 💼 Core Proficiencies
+### 💼 Core Skills & Expertise
 
 - 🔐 Red Teaming & Penetration Testing  
-- 🔍 OSINT & Recon Tooling (Python & APIs)  
-- 🌐 Web App Vulnerabilities (OWASP Top 10)  
+- 🔍 OSINT & Recon Tool Development (Python & APIs)  
+- 🌐 Web Application Security (OWASP Top 10)  
 - 📡 Network Traffic Analysis (Wireshark, MTR)  
-- 🧪 Exploit Writing & Reporting  
-- 🧠 Python, Bash Scripting for Automation
+- 🧪 Exploit Development & Reporting  
+- 🧠 Python & Bash Scripting for Automation
 
 ---
 
@@ -38,34 +38,45 @@ Skilled in scripting, reconnaissance, traffic analysis, and web application secu
 
 ---
 
-### 📜 Verified Certifications
+### 📜 Certifications & Credentials
 
-- [Cybersecurity Certificate – Google (Coursera)](https://www.coursera.org/account/accomplishments/certificate/ABC123)  
-- [Cybersecurity Essentials – Cisco Networking Academy](https://www.netacad.com/portal/learning)  
-- [Linux Fundamentals – Hack The Box Academy](https://academy.hackthebox.com/achievement/XYZ789)  
-- [Web Application Security – Hack The Box Academy](https://academy.hackthebox.com/achievement/DEF456)  
+- [Junior cybersecurity analysts by analyst)](https://www.credly.com/badges/b4467bcc-f8f8-4a0a-9398-084e3cab8568/linked_in_profile)
+- [endpoint security by cisco](https://www.credly.com/badges/b12b00bc-bcb4-4698-8aee-d23de69839f5/linked_in_profile)  
+- [Microsoft Security Copilot](https://www.linkedin.com/learning/certificates/8490399bec2f384d63b35972b7449b5e941c362159bcd83bd5a3e1d321841a74)  
+- [Network Defense](https://www.credly.com/badges/79919ca6-686b-4108-83a4-3f8aab05d384/linked_in_profile)
+- [Cybersecurity threat landscape by linkedin](https://www.linkedin.com/learning/certificates/8d8fbcecee346f5226b83592324ac91fa06478ff62e0b162ea1c642227a426c1)
+- [Hack The Box Academy Linux Fundamentals](https://academy.hackthebox.com/achievement/XYZ789)  
+- [Hack The Box Academy Web Application Security](https://academy.hackthebox.com/achievement/DEF456)  
+- [career essentials in cybersecurity by mircosoft and linkedin](https://www.linkedin.com/learning/certificates/c43bd39673e780e02ca962e18ef7a2a45413d1f26e667bee4140515816747782)
 
-*Replace the above placeholder URLs with your actual certification links.*
-
+  
 ---
 
-### 🧠 Cyber Ranges & Learning Platforms
+### 🧩 Cybersecurity Labs & Mastery
 
 <p>
   <a href="https://academy.hackthebox.com/profile" target="_blank">
-    <img src="https://img.shields.io/badge/Hack_The_Box-Achieving_Hands--On_Mastery-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Hack_The_Box-Hands--On_Mastery-FFC0CB?style=for-the-badge&logo=hackthebox&logoColor=black"/>
   </a>
   <a href="https://tryhackme.com/p/maureenrita47445" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-Certified_Path_to_Real_World-FF0033?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TryHackMe-Certified_Path-FFD4E5?style=for-the-badge&logo=tryhackme&logoColor=black"/>
   </a>
 </p>
 
 ---
 
-### 📬 Let's Connect
+### 🎀 Let's Get In Touch
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maureen-rita-781871254)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/MaureenRitaMuriuki)  
-[![Email](https://img.shields.io/badge/-Email-EA4C89?style=flat&logo=gmail&logoColor=white)](mailto:maureenrita47@gmail.com)
+<p align="center">
+  <a href="mailto:maureenrita47@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-FFD4E5?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/>
+  </a>
+  <a href="https://github.com/MaureenRitaMuriuki" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-FFC0CB?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/maureen-rita-781871254" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-F8C8DC?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
+  </a>
+</p>
 
-<p align="center"><em>Delivering elegant, adversarial security — at scale.</em></p>
+<p align="center"><em>Elegant, precise, and relentless in securing the digital world.</em></p>
