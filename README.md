@@ -1,52 +1,68 @@
-<h1 align="center">✨ Maureen Rita | Cybersecurity Portfolio ✨</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Red%20Team-Analyst-%23f8c8dc?style=flat-square" />
-  <img src="https://img.shields.io/badge/Penetration%20Testing-Offensive%20Security-%23ffc0cb?style=flat-square" />
-  <img src="https://img.shields.io/badge/Bash-Python-Nmap-%23fcd3e6?style=flat-square" />
-</p>
+# Maureen Rita Muriuki
 
----
+### Cybersecurity · Information Technology · Digital Strategy
 
-### 🧠 About Me
+*Security-minded. Systems-focused. Curious by default.*
 
-I'm Maureen Rita, a cybersecurity strategist specializing in **Offensive Security**, **Red Teaming**, and **Threat Simulation**. I document real-world labs, simulate attack vectors, and break down vulnerabilities — all while keeping it elegant and clean 💅🏽.
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore%20my%20work-c7f36b?style=for-the-badge&logo=github&logoColor=10150b)](https://maureenritamuriuki.github.io/MaureenRita-Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maureen-rita-781871254)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maureenrita47@gmail.com)
 
-- 🎓 CyberGirls Fellow | Hack The Box Academy
-- 💻 Red Team Operator (CTF + Simulated Environments)
-- 🛠️ Tools: Nmap • Burp Suite • Wireshark • Python • Bash • Splunk
+</div>
 
 ---
 
-### 💼 Featured Projects
+## About
 
-| Project | Description | Tools |
-|--------|-------------|-------|
-| [🔐 DVWA Pentest](link-to-project) | Penetration testing of DVWA covering XSS, SQLi, command injection. Includes screenshots & reports. | Kali Linux, Burp Suite |
-| [🛰️ DNS Spoofing Lab](link-to-project) | Simulated MITM attack with Wireshark traffic analysis. | DNS Spoofing, Wireshark |
-| [🧠 Nmap Scanner Tool](link-to-project) | Python script to automate Nmap scans and parse vulnerabilities. | Python, Nmap |
-| [📡 Network Path Mapper](link-to-project) | Used MTR & traceroute to map latency and detect chokepoints. | MTR, CLI |
+I’m an Information Technology graduate building experience across cybersecurity consulting, technical investigation, IT support, and digital strategy. My technical learning includes web application security labs, network diagnostics, traffic analysis, and scripting. I value careful testing, clear documentation, and communicating technical observations in a way people can act on.
 
----
+Alongside technical work, I manage organic social media and marketing strategy for a technology business—bringing a business-aware perspective to communication, analytics, and product positioning.
 
-### 📜 Certifications
+## Featured projects
 
-- CyberGirls Fellowship – Ethical Hacking Labs & Training
-- Cisco Network Defense – Threat Analysis & Security Concepts
-- LinkedIn Learning – SOC Tools, Threat Modeling, Phishing Defense
-- Hack The Box Academy – Linux Fundamentals, Web App Security
+| Project | What it explores | Tools |
+|---|---|---|
+| [DVWA Web App Security Lab](https://github.com/MaureenRitaMuriuki/DVWA) | Controlled practice with common web vulnerabilities including XSS, SQL injection, and command injection | Kali Linux, DVWA |
+| [Nmap Vulnerability Scanner](https://github.com/MaureenRitaMuriuki/nmap-vuln-scanner) | Network scanning, service detection, vulnerability-script output, and reporting | Nmap, Linux / Bash |
+| [DNS Spoofing & Wireshark](https://github.com/MaureenRitaMuriuki/dns-spoofing-with-wireshark) | DNS response manipulation in a lab and inspection of DNS traffic | Bettercap, Wireshark |
+| [Network Path Mapping with MTR](https://github.com/MaureenRitaMuriuki/network-path-mapping-mtr) | Network hops, latency, packet loss, and connectivity diagnostics | MTR, Linux |
 
----
+## Experience
 
-### 📂 Repo Structure
+- **Cybersecurity Consultant — Label Forge** · Aug 2026–present  
+  Cybersecurity consulting in the context of a modular, self-hostable annotation operating system.
+- **Marketing Manager & Strategist — Fahari Connect** · Oct 2026–present  
+  Organic social media strategy, analytics, reporting, and practical improvements across Facebook, LinkedIn, and TikTok.
+- **Cyber Cafe Attendant / Photographer — Filma Media Africa** · Oct–Dec 2025  
+  Customer-facing digital services, routine troubleshooting, basic IT operations, and photography.
+- **Social Media Manager — Softgrade Studio** · Jul 2025–Jan 2026
+- **IT Intern — Ngong Law Court, Judiciary** · Sep–Nov 2024  
+  Day-to-day IT support and troubleshooting.
 
+## Skills & tools
 
----
+`Kali Linux` · `Nmap` · `Wireshark` · `MTR` · `Traceroute` · `Python` · `Bash` · `Web security testing` · `Network diagnostics` · `Technical documentation` · `Social media analytics` · `Digital strategy`
 
-### 📫 Contact
+## Education & selected training
 
-Let’s connect! Reach out via [LinkedIn](https://www.linkedin.com/in/maureenrita) or use the contact form on my [portfolio site](https://your-portfolio-link.com).
+- **BSc. Information Technology** — Dedan Kimathi University of Technology (2021–2024)
+- **Cyber Analyst Course** — CyberShujaa, in collaboration with Serianu and USIU (Apr–Aug 2025)
+- CyberGirls Fellowship (2023)
+- CyberSafe Security Training — IAM and OWASP (2023)
+- Cisco Security Courses — Network Defense and Threat Analysis (2023)
+- LinkedIn Learning — Phishing, SOC tools, and threat modeling (2024)
 
----
+## Leadership
 
-<p align="center"><em>Cybersecurity with clarity. Soft-coded with strength. 🩷</em></p>
+- **President, General Assembly Model United Nations** — facilitated university-level discussions on AI regulation, digital sovereignty, and cyber law.
+- **UNDP Student Ambassador (2023)** — supported cybersecurity awareness and digital inclusion.
+
+## Connect
+
+- Portfolio: [maureenritamuriuki.github.io/MaureenRita-Portfolio](https://maureenritamuriuki.github.io/MaureenRita-Portfolio/)
+- LinkedIn: [maureen-rita-781871254](https://www.linkedin.com/in/maureen-rita-781871254)
+- Email: [maureenrita47@gmail.com](mailto:maureenrita47@gmail.com)
+
+> Security projects are for controlled lab environments or systems where explicit authorization has been granted. Descriptions reflect documented project scope; no unverified outcomes or metrics are claimed.
